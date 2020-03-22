@@ -1,0 +1,29 @@
+.container-banner {
+  width: 900px;
+  margin: auto;
+}
+
+.container-cards {
+  text-align: center;
+  margin: 48px auto;
+  color: #678a74;
+  font-size: 20px;
+}
+
+@media (max-width: 900px) {
+  .container-banner {
+    width: 700px
+  }
+}
+
+@media (max-width: 700px) {
+  .container-banner {
+    width: 500px
+  }
+}
+
+@media (max-width: 500px) {
+  .container-banner {
+    width: 400px
+  }
+}

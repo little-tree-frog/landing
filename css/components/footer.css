@@ -1,0 +1,24 @@
+.footer {
+  background-color: #678a74;
+  text-align: center;
+  padding: 40px 40px;
+}
+
+.footer a {
+  font-size: 24px;
+  color: #cbe2b0;
+}
+
+.footer-seedling {
+  color: #235952;
+}
+
+.footer p {
+  color: #235952;
+}
+
+.footer-list > li {
+  display: inline-block;
+  list-style: none;
+  padding: 20px 10px;
+}
